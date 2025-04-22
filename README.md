@@ -1,5 +1,3 @@
-# proyek_klasifikasi_gambar
-
 # Model Deteksi Masker
 
 Repository ini berisi model deep learning untuk mendeteksi apakah seseorang mengenakan masker atau tidak. Model ini dilatih menggunakan Convolutional Neural Network (CNN) dan disimpan dalam berbagai format untuk memudahkan penggunaannya di berbagai platform.
